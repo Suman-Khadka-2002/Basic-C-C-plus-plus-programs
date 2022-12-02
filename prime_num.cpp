@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 {
-    int number=18, i;
-    // cout<<"enter a number: ";
-    // cin>>number;
+    int number, i;
+    cout<<"enter a number: ";
+    cin>>number;
 
     bool flag=0;
 
