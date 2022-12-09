@@ -1,4 +1,4 @@
-
+// Program to display the numbers and print their sum
 
 #include <iostream>
 using namespace std;
